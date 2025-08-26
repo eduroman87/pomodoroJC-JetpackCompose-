@@ -66,19 +66,19 @@ git clone https://github.com/eduroman87/pomodoroJC-JetpackCompose-.git
 
 ## **📄 Documentación adicional**
 
-    Pruebas unitarias disponibles en la carpeta /test
+Pruebas unitarias disponibles en la carpeta /test
 
-    Diagramas de arquitectura y explicación de lógica del temporizador en preparación.
+Diagramas de arquitectura y explicación de lógica del temporizador en preparación.
 
 ---
 
-##  **⚖️ Licencia**
+##  ⚖️ Licencia
 
 Este proyecto está disponible bajo la licencia [MIT](LICENSE).
 
 ---
 
-## **🙋 Sobre el autor**
+## 🙋 Sobre el autor
 
 **Eduardo Román Carrero**  
 Desarrollador de aplicaciones multiplataforma  
