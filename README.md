@@ -59,13 +59,18 @@ Este proyecto fue desarrollado como parte del Ciclo de Desarrollo de Aplicacione
 
 ```bash
 git clone https://github.com/eduroman87/pomodoroJC-JetpackCompose-.git
-    📌 Requiere Android Studio 2022 o superior.
+
+  >  📌 Requiere Android Studio 2022 o superior.
+
+---
 
 ## **📄 Documentación adicional**
 
     Pruebas unitarias disponibles en la carpeta /test
 
     Diagramas de arquitectura y explicación de lógica del temporizador en preparación.
+
+---
 
 ##  **⚖️ Licencia**
 
