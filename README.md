@@ -58,7 +58,9 @@ Este proyecto fue desarrollado como parte del Ciclo de Desarrollo de Aplicacione
 ## 🚀 Cómo clonar el repositorio  
 
 ```bash
-git clone https://github.com/eduroman87/pomodoroJC-JetpackCompose-.git ```
+git clone https://github.com/eduroman87/pomodoroJC-JetpackCompose-.git
+
+```
 
 
 
