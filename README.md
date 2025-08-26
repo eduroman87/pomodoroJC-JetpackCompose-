@@ -2,8 +2,7 @@
 
 **PomodoroJC** es una aplicación móvil de productividad basada en la técnica Pomodoro. Permite configurar sesiones personalizadas de trabajo y descanso, visualizar el progreso por ciclos y controlar el temporizador con una interfaz limpia y responsive.
 
-Diseñada para optimizar tu concentración, combina simplicidad y efectividad, guiándote a través de intervalos de trabajo y pausas para mantener un rendimiento sostenido.  
-Este proyecto fue desarrollado como parte del Ciclo de Desarrollo de Aplicaciones Multiplataforma (DAM).
+Este proyecto fue desarrollado como ejercicio para superar una serie de retos técnicos, aplicando Kotlin, Jetpack Compose, corrutinas, arquitectura MVVM y pruebas unitarias con JUnit, con el objetivo de consolidar habilidades en desarrollo de aplicaciones Android modernas.
 
 ---
 
@@ -14,7 +13,7 @@ Este proyecto fue desarrollado como parte del Ciclo de Desarrollo de Aplicacione
 - Barra de progreso segmentada por ciclo (trabajo y descanso).
 - Validación y normalización automática de los datos ingresados.
 - Arquitectura MVVM con Jetpack Compose y StateFlow.
-- Pruebas unitarias con **JUnit** y **kotlinx-coroutines-test**.
+- Pruebas unitarias con **JUnit**.
 
 ---
 
@@ -25,7 +24,7 @@ Este proyecto fue desarrollado como parte del Ciclo de Desarrollo de Aplicacione
 - Segmented progress bar for work/rest cycles.
 - Real-time validation and automatic normalization of input data.
 - MVVM architecture using Jetpack Compose and StateFlow.
-- Unit tests with **JUnit** and **kotlinx-coroutines-test**.
+- Unit tests with **JUnit**.
 
 ---
 
@@ -35,7 +34,7 @@ Este proyecto fue desarrollado como parte del Ciclo de Desarrollo de Aplicacione
 - **IDE:** Android Studio  
 - **UI:** Jetpack Compose + Material 3  
 - **Arquitectura:** MVVM + StateFlow  
-- **Testing:** JUnit 5 + kotlinx-coroutines-test
+- **Testing:** JUnit 5
 
 ---
 
@@ -45,13 +44,14 @@ Este proyecto fue desarrollado como parte del Ciclo de Desarrollo de Aplicacione
 
 | Fill In The Data | Ready | Confirm Session |
 |------------------|-------|-----------------|
-| ![FillInTheData](screenshots/1-FillInTheData.jpg) | ![Ready](screenshots/2-Ready.jpg) | ![ConfirmSession](screenshots/3-ConfirmSession.jpg) |
+| <img src="screenshots/1-FillInTheData.jpg" width="200"/> | <img src="screenshots/2-Ready.jpg" width="200"/> | <img src="screenshots/3-ConfirmSession.jpg" width="200"/> |
+
 
 ### Ejecución de la sesión Pomodoro
 
 | Start | Cuenta atrás | Descanso |
 |-------|--------------|----------|
-| ![Start](screenshots/4-Start.jpg) | ![StartCountdown](screenshots/5-StartCountdown.jpg) | ![Rest](screenshots/6-Rest.jpg) |
+| <img src="screenshots/4-Start.jpg" width="200"/> | <img src="screenshots/5-StartCountdown.jpg" width="200"/> | <img src="screenshots/6-Rest.jpg" width="200"/> |
 
 ---
 
